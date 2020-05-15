@@ -4,15 +4,15 @@
 
 # Вариант №8
 Решить неявным методом Адамса при k = 1 задачу Коши
-![](https://github.com/johny322/lab7/blob/master/tusk.png)
+![](tusk.png)
 с заданной относительной точностью 0,01.
 
 # Теоретическая часть
 Явный метод Адамса:
-![](https://github.com/johny322/lab7/blob/master/adams_bash.png)
+![](adams_bash.png)
 
 Неявный метод Адамса:
-![](https://github.com/johny322/lab7/blob/master/adams_multon.png)
+![](adams_multon.png)
 
 # Практическая часть
 ## Структура программы
@@ -21,15 +21,15 @@
 ## Результат:
 График y(x)
 
-![](https://github.com/johny322/lab7/blob/master/g1.png)
+![](g1.png)
 
 График y'(x)
 
-![](https://github.com/johny322/lab7/blob/master/g2.png)
+![](g2.png)
 
 График фазовых траекторий
 
-![](https://github.com/johny322/lab7/blob/master/g3.png)
+![](g3.png)
 
 Пунктиром обозначены данные полученные с помощью встроенных функций, обычной линией - методом Адамса.
 
